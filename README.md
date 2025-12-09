@@ -9,15 +9,6 @@ Built for developers, engineers, and professionals who want to beat the algorith
 >
 > **[👉 Try Woberry for Free](https://www.woberry.com)**
 
----
-
-## 📖 Table of Contents
-- [Why ATS Systems Reject You](#why-ats-systems-reject-you)
-- [Resume Templates (Markdown & LaTeX)](#resume-templates)
-- [AI Prompts for Cover Letters](#ai-prompts-for-cover-letters)
-- [Salary Negotiation Scripts](#salary-negotiation-scripts)
-
----
 
 ## Why ATS Systems Reject You
 Applicant Tracking Systems (ATS) parse resumes into structured data. If you use:
